@@ -15,29 +15,33 @@ https://github.com/ilakshay14/espressobar
    2.2 Mark/Unmark as Favorite
    2.3 Checkout
 
-If you want to try this code and run.
+<strong>If you want to try this code and run.</strong>
 
 1. Clone this repository to your local machine
 2. npm install ( to install the dependencies)
 3. yarn start
 
-Dependecies:
-x apollo-server
-x graphql
-x graphql-tools
-x lodash
+<h2>Dependecies:</h2>
 
-Dev Dependencies:
-x nodemon
-x rimraf
-x @babel/core
-x @babel/plugin-proposal-class-properties
-x @babel/plugin-proposal-object-rest-spread
-x @babel/preset-env
-x @babel/node
-x @babel/cli
-x graphql-codegen-core
-x prettier
-x babel-core
-x babel-eslint
-x babel-jest
+<ol>
+    <li> apollo-server</li>
+    <li> graphql</li>
+    <li> graphql-tools</li>
+    <li> lodash</li>
+</ol>
+<h2>Dev Dependencies:</h2>
+<ol>
+    <li> nodemon</li>
+    <li> rimraf</li>
+    <li> @babel/core</li>
+    <li> @babel/plugin-proposal-class-properties</li>
+    <li> @babel/plugin-proposal-object-rest-spread</li>
+    <li> @babel/preset-env</li>
+    <li> @babel/node</li>
+    <li> @babel/cli</li>
+    <li> graphql-codegen-core</li>
+    <li> prettier</li>
+    <li> babel-core</li>
+    <li> babel-eslint</li>
+    <li> babel-jest</li>
+</ol>
