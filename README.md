@@ -10,10 +10,10 @@ https://github.com/ilakshay14/espressobar
 
 0. Create/Edit/Delte User Accounts
 1. User authentication
-1. Type Mutation
-   2.1 Add/Remove to Cart
-   2.2 Mark/Unmark as Favorite
-   2.3 Checkout
+1. Type Mutation <br />
+   2.1 Add/Remove to Cart<br />
+   2.2 Mark/Unmark as Favorite<br />
+   2.3 Checkout<br />
 
 <strong>If you want to try this code and run.</strong>
 
