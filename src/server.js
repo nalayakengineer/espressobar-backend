@@ -1,4 +1,4 @@
-import { ApolloServer, gql } from 'apollo-server';
+import { ApolloServer } from 'apollo-server';
 import { loadTypeSchema } from './util/schema';
 import { merge } from 'lodash';
 import items from './App/item/item.resolver';
