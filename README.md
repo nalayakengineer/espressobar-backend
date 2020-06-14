@@ -1,5 +1,6 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/nalayakengineer/espressobar-backend.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nalayakengineer/espressobar-backend/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/nalayakengineer/espressobar-backend.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nalayakengineer/espressobar-backend/context:javascript)
+[![GitHub forks](https://img.shields.io/github/forks/nalayakengineer/espressobar-backend)](https://github.com/nalayakengineer/espressobar-backend/network)
 # Espresso Bar Apollo GQL backend
 
 Disclaimer - this is just a demo site built for demonstration of skills.
