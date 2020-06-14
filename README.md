@@ -2,9 +2,10 @@
 
 Disclaimer - this is just a demo site built for demonstration of skills.
 
-This repository Serves as backend for the front-end developed by Lakshay.
-You can check the code below:
-https://github.com/ilakshay14/espressobar
+This repository Serves as backend for the front-end developed by <a href="https://github.com/ilakshay14/"><strong>Lakshay</strong></a>.
+
+<h2>You can check the code below:<br />
+<a href="https://github.com/ilakshay14/espressobar">ilakshay14/espressobar</a></h2>
 
 # Development in progress:
 
