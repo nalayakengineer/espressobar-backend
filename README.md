@@ -1,12 +1,10 @@
 # Espresso Bar Apollo GQL backend
 
 Disclaimer - this is just a demo site built for demonstration of skills.
-
 This repository Serves as backend for the front-end developed by <a href="https://github.com/ilakshay14/"><strong>Lakshay</strong></a>.
-
-<h2>You can check the code below:<br />
-<a href="https://github.com/ilakshay14/espressobar">ilakshay14/espressobar</a></h2>
-
+<h3>You can check the code below:<br />
+<a href="https://github.com/ilakshay14/espressobar">ilakshay14/espressobar</a>
+</h3>
 ## Development in progress:
 
 0. Create/Edit/Delte User Accounts
