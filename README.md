@@ -7,7 +7,7 @@ This repository Serves as backend for the front-end developed by <a href="https:
 <h2>You can check the code below:<br />
 <a href="https://github.com/ilakshay14/espressobar">ilakshay14/espressobar</a></h2>
 
-# Development in progress:
+## Development in progress:
 
 0. Create/Edit/Delte User Accounts
 1. User authentication
@@ -24,14 +24,14 @@ This repository Serves as backend for the front-end developed by <a href="https:
 
 <h2>Dependecies:</h2>
 
-<ol>
+<ul>
     <li> apollo-server</li>
     <li> graphql</li>
     <li> graphql-tools</li>
     <li> lodash</li>
-</ol>
+</ul>
 <h2>Dev Dependencies:</h2>
-<ol>
+<ul>
     <li> nodemon</li>
     <li> rimraf</li>
     <li> @babel/core</li>
@@ -45,4 +45,4 @@ This repository Serves as backend for the front-end developed by <a href="https:
     <li> babel-core</li>
     <li> babel-eslint</li>
     <li> babel-jest</li>
-</ol>
+</ul>
