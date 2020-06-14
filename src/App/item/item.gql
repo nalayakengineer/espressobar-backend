@@ -1,0 +1,14 @@
+#this file contains GQL for Item
+
+type Item {
+  id: ID!
+  name: String!
+  price: String!
+  image: String!
+  item: String!
+  type: String!
+}
+
+extend type Query {
+  item(type: String, id: Int): [Item]!
+}
