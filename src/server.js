@@ -11,9 +11,6 @@ export const start = async () => {
             schema {
                 query: Query
             }
-            type Query {
-                items: [Item]!
-            }
     `
 
     //const AppSchema = await Promise.all(Apps.map(loadSchemaType))

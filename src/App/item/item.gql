@@ -9,6 +9,7 @@ type Item {
   type: String!
 }
 
-extend type Query {
+type Query {
+  items: [Item]!
   item(type: String, id: Int): [Item]!
 }
