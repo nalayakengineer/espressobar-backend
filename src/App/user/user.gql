@@ -1,0 +1,15 @@
+type User {
+  _id: ID!
+  email: String!
+  name: String!
+  role: String!
+}
+
+type Query {
+  User(_id: ID!): [User]!
+}
+
+# type Mutation {
+#   signup(input: NewUserInput!): User!
+#   updateMe(input: UpdateUserInput!): User!
+# }

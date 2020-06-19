@@ -2,9 +2,9 @@ import { ApolloServer } from 'apollo-server';
 import { loadTypeSchema } from './util/schema';
 import { merge } from 'lodash';
 import items from './App/item/item.resolver';
-
+import users from './App/user/user.resolver'
 //Define modules of your app you'll create here
-const Apps = ['item']
+const Apps = ['user', 'item']
 
 export const start = async () => {
     const rootSchema = `
@@ -22,7 +22,10 @@ export const start = async () => {
     // definition and your set of resolvers.
     const server = new ApolloServer({
         typeDefs: [rootSchema, ...AppSchema],
-        resolvers: merge({}, items),
+        resolvers: merge({}, users, items),
+        context({ req }) {
+            return { user: null }
+        }
     })
 
 
